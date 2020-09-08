@@ -1,5 +1,5 @@
 This is an Agile Meeting Dashboard which has the following features..
-1. Seperate Login for both Team members and Team manager.
+1. Separate Login for both Team members and Team manager.
 2. All CRUD operations are present for the Team manager.
 3. The manager can assign specific tasks to the Team members.
 4. The manager can view the progress of each member.
